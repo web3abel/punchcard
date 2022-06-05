@@ -10,7 +10,7 @@ const RegisterPage: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Refound</title>
+        <title>punchcard</title>
         <meta name='description' content='Democratized photojournalism for the brave' />
       </Head>
 

@@ -28,7 +28,7 @@ const providerOptions = {
       description: 'Connect to Coinbase Wallet',
     },
     options: {
-      appName: 'Refound',
+      appName: 'punchcard',
       networkUrl: `https://matic-testnet-archive-rpc.bwarelabs.com`,
       chainId: 80001, //main:137
     },

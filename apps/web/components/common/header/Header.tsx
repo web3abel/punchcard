@@ -7,7 +7,7 @@ export const Header = () => (
 
     <ContentSection el='header' className='flex flex-row items-baseline justify-between'>
       <a href='/' className='text-2xl font-bold'>
-        refound
+        punchcard
       </a>
 
       <nav className='flex flex-row gap-4'>
